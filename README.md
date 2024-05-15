@@ -35,8 +35,8 @@ Este projeto consiste na criação de um formulário em Angular que solicita div
 2. Clone o repositório do projeto do GitHub:
 
    ```
-   git clone https://github.com/vitorhugo03/Formulario
-   ```
+   git clone https://github.com/vitorhugo03/Angula
+   ``
 
 3. Acesse o diretório do projeto:
 
