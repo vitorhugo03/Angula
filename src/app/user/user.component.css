@@ -1,0 +1,77 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+.form-wrapper {
+  width: 90%;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.form-row {
+  display: flex;
+  padding: 10px;
+}
+
+.form-column {
+  flex: 1;
+  padding: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="number"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="text"]:focus,
+input[type="date"]:focus,
+input[type="number"]:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+input:required:invalid {
+  border-color: #dc3545;
+}
+
+input:required:valid {
+  border-color: #28a745;
+}
+
+.custom-button {
+  background-color: green;
+  color: white;
+  border: 1px solid green;
+  border-radius: 4px;
+  padding: 8px 16px;
+}
+
+.custom-button:hover {
+  background-color: darkgreen;
+}
+
+
+.text-danger {
+  color: #dc3545
+}
