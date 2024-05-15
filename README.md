@@ -69,3 +69,5 @@ Este projeto consiste na criação de um formulário em Angular que solicita div
 ![Formulário Angular](src/assets/form-user.png)
 
 ![Projeto Angular](src/assets/form-user.png)
+
+Desenvolvido por Isabela Rocha Silveira RA: 323212503 e Caio Augusto Nogueira Santos RA: 323112932
