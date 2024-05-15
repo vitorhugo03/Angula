@@ -64,10 +64,6 @@ Este projeto consiste na criação de um formulário em Angular que solicita div
 
 6. Abra o navegador e acesse o endereço `http://localhost:4200/` para visualizar o formulário.
 
-## Imagens <a name="imagens"></a>
 
-![Formulário Angular](src/assets/form-user.png)
-
-![Projeto Angular](src/assets/form-user2.png)
 
 Desenvolvido por Vitor Hugo Dias Pereira RA: 324117384 e Yasmin Melgaço RA: 32316903
